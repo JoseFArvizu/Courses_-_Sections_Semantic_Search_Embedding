@@ -11,14 +11,6 @@ This project demonstrates how to build a simple semantic‐search pipeline over 
 - **Vector database**: Pinecone (cloud‐hosted, serverless)  
 - **Notebook**: `Courses_&_Sections_Semantic_Search_Embedding.ipynb`
 
-You will learn how to:
-
-1. Load and preprocess your CSV data into Pandas  
-2. Generate text embeddings for each course‐section pair  
-3. Create or reset a Pinecone index  
-4. Upsert embeddings with metadata  
-5. Run semantic‐search queries and filter by similarity
-
 ---
 
 ## 🚀 Quickstart
