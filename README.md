@@ -18,7 +18,7 @@ This project demonstrates how to build a simple semantic‐search pipeline over 
 ### 1. Clone this repo
 
 ```bash
-git https://github.com/JoseFArvizu/Courses_-_Sections_Semantic_Search_Embedding.git
+git https://github.com/JoseFArvizu/Courses_Sections_Semantic_Search_Embedding/edit/master/README.md
 ```
 
 ### 2. Install dependencies
@@ -93,7 +93,6 @@ All of these parameters can be tweaked directly in the notebook:
 ├── course_section_descriptions.csv
 ├── .env
 ├── README.md
-└── requirements.txt   # (optional) pin your dependencies
 \`\`\`
 
 ---
